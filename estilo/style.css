@@ -1,0 +1,38 @@
+h1 {
+    color: cadetblue;
+    text-align: center;
+}
+body {
+    background-color: coral;
+}
+p {
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.txt {
+    color: fuchsia;
+}
+#Mimosa {
+ color: darkblue;
+}
+
+a {
+    text-decoration: none;
+    font-size: 50px;
+    background-color: black;
+    border-radius: 9px;
+    border-color: aqua;
+    border-style: solid;
+    border-width: 5px;
+    padding: 10px 20px;
+}
+img {
+  width: 640px;
+  height: auto;
+    
+}
+
+div {
+    text-align: center;
+}

@@ -1,0 +1,57 @@
+
+img {
+    width: 300px;
+    height: auto;
+}
+.Logo{
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+div {
+    
+    text-align: center;
+    }
+p {
+    text-align: center;
+}
+h1 {
+    font-family: 'nogers',sans-serif;
+  font-size: x-large;
+    text-align: center;
+ ;   
+}
+.MARVEL {
+    text-decoration: none;
+    font-size: 25px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 5px;
+    border-color: rgb(79, 21, 21);
+    border-style: solid;
+    border-width: 5px;
+    padding: 10px 20px;
+    text-align: center;
+    font-family: 'nogers',sans-serif;
+}
+.marvel{
+    background-color: rgb(207, 17, 17)
+}
+
+@font-face {
+    font-family:'nogers';
+    src: url(Bangers-Regular.ttf);
+}
+
+
+
+.Comics {
+    color: rgb(232, 197, 0);
+    font-size: 25px;
+background-color: rgb(63, 63, 63);
+border-radius: 9px;
+border-color: rgba(28, 28, 28, 0.809);
+border-style: solid;
+border-width: 5px;
+padding: 10px 20px;
+text-decoration: none;
+font-family: 'nogers',sans-serif;}

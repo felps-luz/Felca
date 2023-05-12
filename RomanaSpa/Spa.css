@@ -1,0 +1,16 @@
+img {
+    width: 300px;
+    height: auto;
+}
+.Logo{
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+}
+div {
+    text-align: center;
+}
+h1 {
+  font-size: x-large;
+    text-align: center;   
+}
