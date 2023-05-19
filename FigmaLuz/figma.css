@@ -1,0 +1,145 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+
+}
+.Logo { position: absolute;
+width: 400px;
+height: auto;
+left: 515px;
+top: 0px;
+background: url(Editora\ Luz.png);
+} 
+body{
+    position: relative;
+width: 1440px;
+height: 2965px;
+
+background: #000000;
+}
+.Frase {
+    position: absolute;
+width: 1081px;
+height: 175px;
+left: 179px;
+top: 284px;
+
+font-family: 'Aladin';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 59px;
+text-align: center;
+
+color: #FFFFFF;}
+.Gato {
+    
+    position: absolute;
+    width: 206px;
+    height: 387px;
+    left: 238px;
+    top: 725px;
+background: #171717;
+border-radius: 12px;
+}
+.capa {
+    width: 170px;
+    height: auto;
+    padding: 5px;
+    box-sizing: border-box;
+    
+} 
+.descrição {
+    color: rgb(143, 0, 0);
+    box-sizing: border-box;
+    padding: 5px;
+}
+.Mary {
+    position: absolute;
+width: 206px;
+height: 387px;
+left: 1015px;
+top: 725px;
+background: #171717;
+border-radius: 12px;
+
+}
+.corvo {
+    width: 206px;
+    height: 387px; position: absolute;
+width: 206px;
+height: 387px;
+left: 238px;
+top: 1554px;
+background: #171717;
+border-radius: 12px;
+}
+.abc {
+    position: absolute;
+    width: 206px;
+    height: 387px;
+    left: 1015px;
+    top: 1554px;
+    background: #171717;
+    border-radius: 12px;
+
+   }
+   .rose {
+    position: absolute;
+    width: 299px;
+    height: 366px;
+    left: 570px;
+    top: 1008px;    
+   }
+   .coiso {
+    position: absolute;
+width: 245.61px;
+height: 256.8px;
+left: 588.51px;
+top: 1575.93px;
+   }
+.endereço {
+    position: absolute;
+width: 482px;
+height: 37px;
+left: 461px;
+top: 2224px;
+
+font-family: 'Aladin';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+
+color: #FFFFFF;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.rua{
+    position: absolute;
+width: 763px;
+height: 25px;
+left: 340px;
+top: 2856px;
+
+font-family: 'Aladin';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+text-align: center;
+color: #FFFFFF;
+}
+.maps {
+    position: absolute;
+left: 420px;
+top: 2311px;
+}
+    
+
+
+

@@ -1,0 +1,28 @@
+img {
+    height: 150px;
+    width: auto;
+    border-radius: 4px;
+}
+div {
+    text-align: center;
+}
+h1 {
+  font-size: x-large;
+    text-align: center;   
+}
+.Logo {
+    height: 270px;
+    width: auto;
+}
+body {
+    background-color: #3CA1C6;
+    
+        height: 110vh;
+    
+}
+.conteirner {
+    display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-around;
+   padding: 0 200px;}
